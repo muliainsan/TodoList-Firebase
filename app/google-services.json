@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "187269691760",
+    "firebase_url": "https://myfirebase-be852.firebaseio.com",
+    "project_id": "myfirebase-be852",
+    "storage_bucket": "myfirebase-be852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187269691760:android:748ae80542dcbb3a",
+        "android_client_info": {
+          "package_name": "com.project.muliains.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187269691760-vc1llmcvcv1ma0uloa7kapneib28lnpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBUas7vC6WfTOb_G6RVmwc8qxD3UsAPYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187269691760:android:f273d1fc757a9764",
+        "android_client_info": {
+          "package_name": "com.project.muliains.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187269691760-vc1llmcvcv1ma0uloa7kapneib28lnpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBUas7vC6WfTOb_G6RVmwc8qxD3UsAPYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187269691760:android:4f8cc1bd2baef987",
+        "android_client_info": {
+          "package_name": "com.project.muliains.todolist_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187269691760-vc1llmcvcv1ma0uloa7kapneib28lnpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBUas7vC6WfTOb_G6RVmwc8qxD3UsAPYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
