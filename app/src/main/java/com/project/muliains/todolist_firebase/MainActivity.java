@@ -61,7 +61,6 @@ public class MainActivity extends AppCompatActivity {
                 RecyclerView.LayoutManager lm = new LinearLayoutManager(getApplicationContext());
                 rv.setLayoutManager(lm);
                 rv.setAdapter(adapter);
-
             }
 
             @Override

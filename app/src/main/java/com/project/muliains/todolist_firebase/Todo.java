@@ -1,9 +1,19 @@
 package com.project.muliains.todolist_firebase;
 
+import android.media.Image;
+
 public class Todo {
     String id, nama, desc;
+    Image img;
 
     public Todo() {
+    }
+
+    public Todo(String id, String nama, String desc, Image img) {
+        this.id = id;
+        this.nama = nama;
+        this.desc = desc;
+        this.img = img;
     }
 
     public Todo(String id, String nama, String desc) {
@@ -34,5 +44,13 @@ public class Todo {
 
     public void setDesc(String desc) {
         this.desc = desc;
+    }
+
+    public Image getImg() {
+        return img;
+    }
+
+    public void setImg(Image img) {
+        this.img = img;
     }
 }
